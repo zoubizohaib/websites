@@ -1,0 +1,59 @@
+<!DOCTYPE>
+<html>
+    <head>
+        <title>My Website♥☺</title>
+    </head>
+    <header id="header">
+            <h1>Energy and Environment Department of DUET</h1>
+            <link rel="stylesheet" type="text/css" href="Style.CSS"/>
+    </header>
+    <body id="body">
+        
+        <div id="container">
+            <div id="content">
+                <nav id="nav">
+                        <textarea title="search">Search here</textarea>
+
+                    <h3>Navigation</h3>
+                    <ul>
+                        <hr/>
+                        <li><a class="selected" href="CSS%20Tutorial.html">Home</a></li>
+                        <hr/>
+                        <li><a href="New%20Text%20Document.html">About</a></li>
+                        <hr/>
+                        <li><a href="CSS%20Tutorial%20-%20Copy.html">Contact</a></li>
+                        <hr/>
+                    </ul>
+                </nav>
+                <div id="main">
+                    <h2>Introduction</h2>
+                    <hr/>
+                    <p>    I am creating this website to learn how to create a website. Because i want to create a website on my engineering field and i spread new ideas world wide.</p>
+                    <p>    I Know how to code but I don't know how to disign a website. Coding is easy task but designing needs creativity and new ideas.</p>
+                    <p>The most important think in a website is the disign which attract the reader. Its not like mixing colors its about the theme a design should reflect the central idea of a webite and its a chalenge to create new and different design of website from other website on the interent.</p>
+                    <hr/>
+                    <i>
+                    <h2>Education</h2>
+                        <hr/>
+                    <p>	Education is the most important aspect of our life. Without education we cannot survive in this world. We can live with peace and comfort in the light of education. Education does not only save us but also protect the entire world from evil force and natural disasters.</p>
+                    <p>	It is very for every single person to be educated it does not matter if he is a housekeeper or a servant. It is the responsibility of every person to research what is right and what is wrong and also it is his responsibility to spread his knowledge to other. We can do our best with the help of education. We can serve better with better knowledge. We can spread happiness by education. Without education we are like animals or useless.</p>
+                    <p>	Now a day, we have world wide knowledge in our hand. Millions of books and educational websites giving us lots of knowledge in the internet on our smart phones. Now getting education became easy for every person. New generation is taking very advantage of modern technology and improving their lifestyle.</p>
+                    <p>	In this modern era, countries are focusing on research and development in every field and improving higher education and increasing literacy rate of their people. Unfortunately, in our country majority of people is very far from religious and modern education. Even they don’t know about their rights. Despite the fact that we have lots of school, colleges and institutes, literacy rate of our country is very low. The quality of education is also not good./p>
+                    <p>	Our government is doing struggling to improve the quality of education but unfortunately, our government schools, colleges ineffective due to their lake of interest in teaching. We can see corruption in every government institute where students getting grades by giving bribe. Universities are selling seats for money. Our educational system teaching us how to cheat. This education system will not make us a good person.</p>
+                    <p>	In our private institutes are giving much better education then government institutes. But due to their high fees it is difficult for middle class people to effort such education. Majority of students don’t have any aim. They don’t know why they are studding and they are just rote learning to get higher marks in their marksheet. Rote learning destroying their creativity.</p>
+                    <p>In our religion, it is obliged of every men and women to get enough knowledge about right and wrong and forbid and permit. As we are getting closer to the modern education, we are leaving our religious education behind. That’s why we forgot our purpose of life and became materialistic and selfish. Our leaders became corrupt. We are not following the commands of our God and we don’t want to thick about the life after death. </p>
+                        </i>
+                    <p>-------------------------</p>
+                     <p>-  -----------------</p>
+                     <p>-   ----------</p>
+                </div>
+                 <div id="video">
+                <video src="Images/Top%2020%20Fastest%20Players%20%E2%80%A2%202017%20%E2%80%A2%20Speed%20Statistics%20-%20YouTube.MP4" controls />
+                </div>
+            </div>
+        </div>
+    </body>
+    <footer id="footer">
+        Copyright &copy; 2018 Muhammad Zohaib
+    </footer>
+</html>
